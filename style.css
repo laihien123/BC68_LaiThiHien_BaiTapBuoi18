@@ -1,0 +1,60 @@
+body {
+  background-color: rgba(242, 211, 211, 0.856);
+  color: rgb(228, 176, 176);
+}
+
+.iphone {
+  max-width: 800px;
+  margin: 50px auto;
+  border: 1px solid white;
+  border-radius: 20px;
+  background-image: url(./img/h1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px 30px;
+}
+
+.content input {
+  background-color: #edf2f9;
+}
+
+.content .xuatmang i {
+  color: black;
+}
+
+.baiTap .accordion-button {
+  background-color: #edf2f9;
+  transition: all 0.3s;
+  font-weight: bold;
+}
+
+.button {
+  background-color: rgb(224, 35, 104);
+  color: white;
+  margin-left: 20px;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+
+.button:hover {
+  background-color: #edf2f9;
+  color: black;
+}
+
+.hienThi {
+  background-color: #edf2f9;
+  text-align: left;
+  color: black;
+}
+
+.baiTap .button {
+  margin: 20px 0 0 20px;
+}
+
+.baiTap .hienThi {
+  margin: 20px;
+}
+
+.baiTap .accordion-button:hover {
+  background-color: #4a3d5b73;
+}
